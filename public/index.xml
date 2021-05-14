@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Melbourne Pedestrian Data on My blog</title>
+    <link>/</link>
+    <description>Recent content in Melbourne Pedestrian Data on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
+Your Name Email Address An email address is required.  Message   </description>
+    </item>
+    
+    <item>
+      <title>Exploratory Data Analysis</title>
+      <link>/post/eda_markdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/eda_markdown/</guid>
+      <description>Exploratory Data Analysis: Pedestrian volumes over the week: A study of the pedestrian volumes over the week for different times of the day revealed that the volumes were more or less consistent for the different times of the day during weekends and weekdays except for day time. The day time volumes were almost halved indicating closed offices. An interesting pattern is also noted on Fridays: the volumes are similar from early morning through evening to those from Monday-Thursday.</description>
+    </item>
+    
+    <item>
+      <title>Influence of the Covid pandemic in Melbourne</title>
+      <link>/post/covid_markdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/covid_markdown/</guid>
+      <description>2020 - Influence of the Pandemic In 2020 Melbourners had to live through, what have been termed one of the worlds most strict lockdown. So let&amp;rsquo;s explore what happens when the most liveable city finds itself under one of the worlds hardest lockdowns. We have done some exploration, and build an interactive setup that allows you to explore further.
+Lockdowns are messy, there is no simple &amp;lsquo;is&amp;rsquo; or &amp;lsquo;is not&amp;rsquo; label you can put on a city on a given date, nor is there a well defined scale for stages of lockdown, as restrictions can be (and have been) combined in numerous ways.</description>
+    </item>
+    
+    <item>
+      <title>Relation between Pedestrian flow and Weather</title>
+      <link>/post/weather_markdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/weather_markdown/</guid>
+      <description>Weather Imagine being in Melbourne right now, how do you think the weather would be right now? And would that somehow influence the local peoples social behaviour ? Would it be possible to predict how many people are walking on the streets based on day time and weather? Those are some of the questions we asked ourselves, because you see in the Nordic countries people are very influenced by the weather, a cold and rainy is better spend idoors with a nice cop of coffe and a good book.</description>
+    </item>
+    
+    <item>
+      <title>The influence of Events in Melbourne on Pedestrian flow</title>
+      <link>/post/event_markdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/event_markdown/</guid>
+      <description>Event Based Analysis Motivation: The event based visualization is an effort towards understanding the pulse of the city of Melbourne. The Central Business District being an important area for socio cultural as well as business activity , would naturally be an ideal location for people to gather and express joy as they celebrate a win or usher in the new year. As a normal corollary, crowds would be expected to gather and demonstrations be called for to express their resentment towards a socio-political event, be it local or global.</description>
+    </item>
+    
+  </channel>
+</rss>
